@@ -16,7 +16,7 @@ Hyperledger Fabric 블록체인 플랫폼을 이용한 내부 강연을 위해 �
 
 ## [crowdigit/oh-no-bot](https://github.com/crowdigit/oh-no-bot)
 
-C++로 Discord API를 이용한 디스코드 봇 서버와 리눅스 systemd 스크립크입니다.
+C++로 Discord API를 이용한 디스코드 봇 서버와 리눅스 systemd 스크립트입니다.
 
 ## [crowdigit/ymm](https://github.com/crowdigit/ymm)
 
