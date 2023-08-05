@@ -10,15 +10,19 @@
 
 OpenGL을 이용한 안드로이드 기반 카드 게임입니다.
 
-## [crowdigit/bc-study-1](https://github.com/crowdigit/bc-study-1)
+## [crowdigit/foo](https://github.com/crowdigit/foo)
 
-Hyperledger Fabric 블록체인 플랫폼을 이용한 내부 강연을 위해 제작한 자료입니다.
-
-## [crowdigit/oh-no-bot](https://github.com/crowdigit/oh-no-bot)
-
-C++로 Discord API를 이용한 디스코드 봇 서버와 리눅스 systemd 스크립트입니다.
+Go 언어로 제작중인 2D 플랫포머 게임입니다.
 
 ## [crowdigit/ymm](https://github.com/crowdigit/ymm)
 
 유튜브에서 음원 다운로드 받는 프로세스를 줄여놓은
 Go 언어를 이용한 프로그램입니다.
+
+## [crowdigit/oh-no-bot](https://github.com/crowdigit/oh-no-bot)
+
+C++로 Discord API를 이용한 디스코드 봇 서버와 리눅스 systemd 스크립트입니다.
+
+## [crowdigit/bc-study-1](https://github.com/crowdigit/bc-study-1)
+
+Hyperledger Fabric 블록체인 플랫폼을 이용한 내부 강연을 위해 제작한 자료입니다.
